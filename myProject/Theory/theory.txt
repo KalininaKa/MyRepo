@@ -1,0 +1,43 @@
+Объекты и классы, Методы.
+Типы данных.
+Список базовых типов данных https://javarush.ru/quests/lectures/questsyntax.level10.lecture02
+
+Модификаторы.
+Модификаторы методов https://javarush.ru/quests/lectures/questsyntaxpro.level06.lecture03
+
+Типы переменных.
+Переменные https://javarush.ru/quests/lectures/questsyntaxpro.level01.lecture03
+Типы переменных https://javarush.ru/quests/lectures/questsyntaxpro.level01.lecture04
+
+Базовые операторы.
+Числовые операторы https://javarush.ru/quests/lectures/questmultithreading.level10.lecture03
+Логические операторы https://javarush.ru/quests/lectures/questmultithreading.level10.lecture05
+Побитовые операторы (&, xor, <<,...) https://javarush.ru/quests/lectures/questmultithreading.level10.lecture07
+
+
+Циклы.
+Циклы в Java while https://javarush.ru/quests/lectures/questsyntaxpro.level04.lecture00
+Прерывание цикла https://javarush.ru/quests/lectures/questsyntaxpro.level04.lecture01
+Цикл for https://javarush.ru/quests/lectures/questsyntaxpro.level04.lecture03
+Цикл do-while https://javarush.ru/quests/lectures/questsyntaxpro.level04.lecture05
+Цикл for-each https://javarush.ru/quests/lectures/questsyntaxpro.level13.lecture01
+
+Операторы ветвления и выбора.
+Ветвление в Java https://javarush.ru/groups/posts/2726-vetvlenie-v-java
+
+
+Классы – обёртки.
+Класс String.
+Массивы.
+Дата и время.
+Регулярные выражения.
+Исключения.
+ООП
+Абстракция.
+Структуры данных.
+Collections Framework.
+Сериализация.
+Многопоточность.
+Апплеты.
+Инструменты сборки проекта (maven)
+Инструменты модульного тестирования (junit)
